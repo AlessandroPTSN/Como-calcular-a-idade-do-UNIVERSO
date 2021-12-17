@@ -94,7 +94,7 @@ https://en-m-wikipedia-org.translate.goog/wiki/Luminosity_distance?_x_tr_sl=en&_
 ## Medidas e Conversões
   
 Agora que temos os dados, podemos realizar os próximos passos, mas nem de longe isso foi trivial.  
-Primeiramente que temos o módulo da distância (diferença entre a magnitude aparente (m) e a magnitude absoluta (M) de um objeto astronômico = m-M) e não a distância de luminosidade (essa que precisamos)
+Primeiramente temos o módulo da distância (diferença entre a magnitude aparente (m) e a magnitude absoluta (M) de um objeto astronômico = m-M) e não a distância de luminosidade (essa que precisamos)
   
 ![image](https://user-images.githubusercontent.com/50224653/146567816-d1424f62-018d-4715-a11d-c9479705fa33.png)
 
