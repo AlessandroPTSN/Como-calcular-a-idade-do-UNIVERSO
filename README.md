@@ -41,7 +41,7 @@ http://leda.univ-lyon1.fr/intro.html
 
 ## Obtenção dos dados
 
-Se você possui familiaridade com SQL, então o site é uma mão na roda. Podemos pegar apenas as variáveis que queremos em vez de baixar o banco de dados todo através de consultas feitas diretamente no próprio site, insano!!  
+Se você possui familiaridade com SQL, então o site é uma mão na roda. Podemos pegar apenas as variáveis que queremos (em vez de baixar o banco de dados todo), através de consultas feitas diretamente no próprio site, insano!!  
 As informações sobre a separação dos dados e sobre a consulta se encontram a baixo, mas se possuir dificuldades, o banco de dados também se encontra no repositório.  
 
 <details>
@@ -247,6 +247,8 @@ Existe uma relação interessante na fisica entre distância, velocidade e tempo
 Tempo = Distancia / Velocidade  
 t = d/v  
   
+O inverso da constante de Hubble (o inverso do coeficiente angular) vai expressar o tempo da equação.
+  
 <details>
 <summary>Info</summary>
 <p>
@@ -256,7 +258,7 @@ https://pt.wikibooks.org/wiki/Introdução_à_física/Cinemática/Velocidade
 
 
 Logo, dada uma linha de regressão simples, se você tiver d e v (definir o intercept para 0), a inclinação será o tempo em segundos.   
-Com isso podemos calcular o tempo de existência do universo em segundos, usando a lei de Hubble.  
+Com isso podemos calcular o tempo de existência do universo em segundos, como mostrado na equação da lei de Hubble.  
 ```Python
 #O tempo do UNIVERSO em segundos
 Tempo_em_seg = (1/b)
@@ -270,6 +272,8 @@ ANOS = ((((Tempo_em_seg / 60)/ 60)/ 24)/ 365)
 "{:,}".format(int(ANOS))
 #14,153,129,054
 ``` 
+Portanto, pela minha estimativa o universo possui.... 🎉14 153 129 054 anos!🎉  
+E não acaba por aqui, você mesmo pode calcular sua própia estimativa! usando esse código e o banco de dados do leda!
  
 ## Agradecimentos
   
