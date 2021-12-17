@@ -231,23 +231,23 @@ plt.plot(x,f(x), c="red", label="fit line between min and max")
   
 ## Conclusão
   
-Lei de Hubble  
+Portanto, utilizando a Lei de Hubble  
 v   = H0 * d  
 onde:  
 v – velocidade  
 H0 – constante de Hubble  
 r – distância  
 
-Podendo ser re-escrita da seguinte forma:  
+E a re-escrevendo da seguinte forma:  
 v   = H0 * d  
 1   = (H0 *d)/v  
 1/H0 = d/v  
 
-Existe uma relação interessante na fisica entre distância, velocidade e tempo.  
+E utilizando uma relação muito interessante na fisica entre distância, velocidade e tempo.  
 Tempo = Distancia / Velocidade  
 t = d/v  
   
-O inverso da constante de Hubble (o inverso do coeficiente angular) vai expressar o tempo da equação.
+Temos que o inverso da constante de Hubble (o inverso do coeficiente angular) vai expressar o tempo da equação.
   
 <details>
 <summary>Info</summary>
