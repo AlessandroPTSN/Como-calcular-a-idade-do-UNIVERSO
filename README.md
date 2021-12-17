@@ -97,6 +97,13 @@ Agora que temos os dados, podemos realizar os próximos passos, mas nem de longe
 Primeiramente temos o módulo da distância (diferença entre a magnitude aparente (m) e a magnitude absoluta (M) de um objeto astronômico = m-M) e não a distância de luminosidade (essa que precisamos)
   
 ![image](https://user-images.githubusercontent.com/50224653/146567816-d1424f62-018d-4715-a11d-c9479705fa33.png)
+  
+<details>
+<summary>Info</summary>
+<p>
+https://en-m-wikipedia-org.translate.goog/wiki/Luminosity_distance?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=sc
+</p> 
+</details>
 
 ```Python
 Dl=10**((data['mod0']/5)+1 ) 
@@ -111,10 +118,13 @@ Dado que:
 v é a componente radial de velocidade em relação a fonte e o observador.  
 c é a velocidade da luz no vácuo (299792458 m/s. Logo, para Quilômetros: 299792.458 km/s).  
 
+![image](https://user-images.githubusercontent.com/50224653/146589455-37590953-56fb-42be-b82a-c5a3c21e05f1.png)  
+  
 <details>
 <summary>Info</summary>
 <p>
 https://pt.wikipedia.org/wiki/Desvio_para_o_vermelho  
+  
 https://pt.wikipedia.org/wiki/Velocidade_da_luz
 </p> 
 </details>
@@ -150,6 +160,8 @@ Só um último detalhe, a distância está em Parsec (Pc) que é um tipo de dist
 <details>
 <summary>Info</summary>
 <p>
+https://pt.wikipedia.org/wiki/Parsec  
+  
 https://www.unitconverters.net/length/parsec-to-kilometer.htm
 </p> 
 </details> 
