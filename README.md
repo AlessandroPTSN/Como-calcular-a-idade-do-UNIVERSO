@@ -265,7 +265,7 @@ Tempo_em_seg = (1/b)
 Tempo_em_seg
 #4.463330778587455e+17
 ```
-Por fim, para calcularmos quando anos o universo tem, é só convertemos os segundos para minutos, minutos para horas, horas para dias e dias para anos.  
+Por fim, para calcularmos quantos anos o universo tem, é só convertemos os segundos para minutos, minutos para horas, horas para dias e dias para anos.  
 ```Python
 #A idade do UNIVERSO em anos
 ANOS = ((((Tempo_em_seg / 60)/ 60)/ 24)/ 365)
