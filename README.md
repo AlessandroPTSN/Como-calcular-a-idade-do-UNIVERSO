@@ -23,9 +23,11 @@ https://pt.wikipedia.org/wiki/Lei_de_Hubble
 
 </details>
 
-<p align = "center">
-<img src="https://user-images.githubusercontent.com/50224653/146562829-1ac130ca-5f4c-4c79-95c7-f4d058e25062.png" width=50% height=50%>
-</p> 
+
+  ![image](https://user-images.githubusercontent.com/50224653/146562829-1ac130ca-5f4c-4c79-95c7-f4d058e25062.png)
+
+
+
 
 
 Logo se obtermos a velocidade e a distância das galáxias, podemos calcular essa relação linear.  
