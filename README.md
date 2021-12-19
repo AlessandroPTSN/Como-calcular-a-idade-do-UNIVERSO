@@ -236,11 +236,11 @@ v   = H0 * d
 onde:  
 v – velocidade  
 H0 – constante de Hubble  
-r – distância  
+d – distância  
 
 E a re-escrevendo da seguinte forma:  
 v   = H0 * d  
-1   = (H0 *d)/v  
+1   = (H0 * d)/v  
 1/H0 = d/v  
 
 E utilizando uma relação muito interessante na fisica entre distância, velocidade e tempo.  
@@ -256,8 +256,18 @@ https://pt.wikibooks.org/wiki/Introdução_à_física/Cinemática/Velocidade
 </p> 
 </details> 
 
+  
+y   = b * x  
+onde:  
+y – velocidade radial  
+b – coeficiente de inclinação  
+x – distância de movimento  
 
-Logo, dada uma linha de regressão simples, se você tiver d e v (definir o intercept para 0), a inclinação será o tempo em segundos.   
+y   = b * x  
+1   = (b * x)/y  
+1/b = x/y  
+ 
+Logo, dada uma linha de regressão simples, se você tiver d e v (definir o intercept para 0), o inverso da inclinação será o tempo em segundos.   
 Com isso podemos calcular o tempo de existência do universo em segundos, como mostrado na equação da lei de Hubble.  
 ```Python
 #O tempo do UNIVERSO em segundos
