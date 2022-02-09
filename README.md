@@ -112,7 +112,7 @@ Dl=10**((data['mod0']/5)+1 )
 ```
 Entretanto, só isso vai nos dar uma estimativa meio imprecisa, pois essa formula é boa para calcularmos distâncias na nossa galáxia, mas para objetos distantes além da Via Láctea, outros fatores influenciam na medição como a curvatura do espaço-tempo , desvio para o vermelho e dilatação do tempo.  
   
-Como não possuo muito conhecimento nesses fatores, vamos só considerar o desvio para o vermelho e o resto vamos desconsiderar.
+Nesse caso, vamos só considerar o desvio para o vermelho e o resto vamos desconsiderar.
 
   
 DESVIO PARA O VERMELHO (z)  
